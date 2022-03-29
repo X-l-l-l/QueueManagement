@@ -1,0 +1,162 @@
+
+Time 0
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+
+Time 1
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 2
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 3
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 4
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 5
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 6
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 7
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 8
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 9
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 10
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 11
+Waiting: [Client 3: arr: 12 serv: 2  , Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 12
+Waiting: [Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: Client 3: arr: 12 serv: 2  
+Queue 1: 
+
+Time 13
+Waiting: [Client 4: arr: 14 serv: 2  , Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: Client 3: arr: 12 serv: 1  
+Queue 1: 
+
+Time 14
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: Client 4: arr: 14 serv: 2  
+Queue 1: 
+
+Time 15
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: Client 4: arr: 14 serv: 1  
+Queue 1: 
+
+Time 16
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 17
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 18
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 19
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 20
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 21
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 22
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 23
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 24
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 25
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 26
+Waiting: [Client 2: arr: 27 serv: 2  , Client 1: arr: 29 serv: 2  ]
+Queue 0: 
+Queue 1: 
+
+Time 27
+Waiting: [Client 1: arr: 29 serv: 2  ]
+Queue 0: Client 2: arr: 27 serv: 2  
+Queue 1: 
+
+Time 28
+Waiting: [Client 1: arr: 29 serv: 2  ]
+Queue 0: Client 2: arr: 27 serv: 1  
+Queue 1: 
+
+Time 29
+Waiting: []
+Queue 0: Client 1: arr: 29 serv: 2  
+Queue 1: 
+
+Time 30
+Waiting: []
+Queue 0: Client 1: arr: 29 serv: 1  
+Queue 1: 
+
+Time 31
+Waiting: []
+Queue 0: 
+Queue 1: 
+
+Done !!
+Peek start: 12 Peek end: 15
+Avg time: 2.0

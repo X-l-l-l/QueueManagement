@@ -1,0 +1,322 @@
+
+Time 0
+Waiting: [Client 1: arr: 2 serv: 9  , Client 2: arr: 2 serv: 6  , Client 3: arr: 2 serv: 8  , Client 4: arr: 2 serv: 9  , Client 5: arr: 2 serv: 6  , Client 6: arr: 2 serv: 7  , Client 7: arr: 2 serv: 8  , Client 8: arr: 2 serv: 5  , Client 9: arr: 2 serv: 8  , Client 10: arr: 2 serv: 7  , Client 11: arr: 2 serv: 8  , Client 12: arr: 2 serv: 8  , Client 13: arr: 2 serv: 6  , Client 14: arr: 2 serv: 8  , Client 15: arr: 2 serv: 6  , Client 16: arr: 2 serv: 7  , Client 17: arr: 2 serv: 7  , Client 18: arr: 2 serv: 7  , Client 19: arr: 2 serv: 5  , Client 20: arr: 2 serv: 7  ]
+Queue 0: 
+Queue 1: 
+Queue 2: 
+
+Time 1
+Waiting: [Client 1: arr: 2 serv: 9  , Client 2: arr: 2 serv: 6  , Client 3: arr: 2 serv: 8  , Client 4: arr: 2 serv: 9  , Client 5: arr: 2 serv: 6  , Client 6: arr: 2 serv: 7  , Client 7: arr: 2 serv: 8  , Client 8: arr: 2 serv: 5  , Client 9: arr: 2 serv: 8  , Client 10: arr: 2 serv: 7  , Client 11: arr: 2 serv: 8  , Client 12: arr: 2 serv: 8  , Client 13: arr: 2 serv: 6  , Client 14: arr: 2 serv: 8  , Client 15: arr: 2 serv: 6  , Client 16: arr: 2 serv: 7  , Client 17: arr: 2 serv: 7  , Client 18: arr: 2 serv: 7  , Client 19: arr: 2 serv: 5  , Client 20: arr: 2 serv: 7  ]
+Queue 0: 
+Queue 1: 
+Queue 2: 
+
+Time 2
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 9  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 2: arr: 2 serv: 6  Client 4: arr: 2 serv: 9  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 3: arr: 2 serv: 8  Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 3
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 8  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 2: arr: 2 serv: 5  Client 4: arr: 2 serv: 9  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 3: arr: 2 serv: 7  Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 4
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 7  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 2: arr: 2 serv: 4  Client 4: arr: 2 serv: 9  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 3: arr: 2 serv: 6  Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 5
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 6  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 2: arr: 2 serv: 3  Client 4: arr: 2 serv: 9  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 3: arr: 2 serv: 5  Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 6
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 5  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 2: arr: 2 serv: 2  Client 4: arr: 2 serv: 9  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 3: arr: 2 serv: 4  Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 7
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 4  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 2: arr: 2 serv: 1  Client 4: arr: 2 serv: 9  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 3: arr: 2 serv: 3  Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 8
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 3  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 9  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 3: arr: 2 serv: 2  Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 9
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 2  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 8  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 3: arr: 2 serv: 1  Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 10
+Waiting: []
+Queue 0: Client 1: arr: 2 serv: 1  Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 7  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 5: arr: 2 serv: 6  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 11
+Waiting: []
+Queue 0: Client 6: arr: 2 serv: 7  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 6  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 5: arr: 2 serv: 5  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 12
+Waiting: []
+Queue 0: Client 6: arr: 2 serv: 6  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 5  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 5: arr: 2 serv: 4  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 13
+Waiting: []
+Queue 0: Client 6: arr: 2 serv: 5  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 4  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 5: arr: 2 serv: 3  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 14
+Waiting: []
+Queue 0: Client 6: arr: 2 serv: 4  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 3  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 5: arr: 2 serv: 2  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 15
+Waiting: []
+Queue 0: Client 6: arr: 2 serv: 3  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 2  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 5: arr: 2 serv: 1  Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 16
+Waiting: []
+Queue 0: Client 6: arr: 2 serv: 2  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 4: arr: 2 serv: 1  Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 7: arr: 2 serv: 8  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 17
+Waiting: []
+Queue 0: Client 6: arr: 2 serv: 1  Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 8: arr: 2 serv: 5  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 7: arr: 2 serv: 7  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 18
+Waiting: []
+Queue 0: Client 9: arr: 2 serv: 8  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 8: arr: 2 serv: 4  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 7: arr: 2 serv: 6  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 19
+Waiting: []
+Queue 0: Client 9: arr: 2 serv: 7  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 8: arr: 2 serv: 3  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 7: arr: 2 serv: 5  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 20
+Waiting: []
+Queue 0: Client 9: arr: 2 serv: 6  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 8: arr: 2 serv: 2  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 7: arr: 2 serv: 4  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 21
+Waiting: []
+Queue 0: Client 9: arr: 2 serv: 5  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 8: arr: 2 serv: 1  Client 10: arr: 2 serv: 7  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 7: arr: 2 serv: 3  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 23
+Waiting: []
+Queue 0: Client 9: arr: 2 serv: 3  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 10: arr: 2 serv: 6  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 7: arr: 2 serv: 1  Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 24
+Waiting: []
+Queue 0: Client 9: arr: 2 serv: 2  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 10: arr: 2 serv: 5  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 11: arr: 2 serv: 8  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 25
+Waiting: []
+Queue 0: Client 9: arr: 2 serv: 1  Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 10: arr: 2 serv: 4  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 11: arr: 2 serv: 7  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 26
+Waiting: []
+Queue 0: Client 12: arr: 2 serv: 8  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 10: arr: 2 serv: 3  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 11: arr: 2 serv: 6  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 27
+Waiting: []
+Queue 0: Client 12: arr: 2 serv: 7  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 10: arr: 2 serv: 2  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 11: arr: 2 serv: 5  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 28
+Waiting: []
+Queue 0: Client 12: arr: 2 serv: 6  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 10: arr: 2 serv: 1  Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 11: arr: 2 serv: 4  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 29
+Waiting: []
+Queue 0: Client 12: arr: 2 serv: 5  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 13: arr: 2 serv: 6  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 11: arr: 2 serv: 3  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 30
+Waiting: []
+Queue 0: Client 12: arr: 2 serv: 4  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 13: arr: 2 serv: 5  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 11: arr: 2 serv: 2  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 31
+Waiting: []
+Queue 0: Client 12: arr: 2 serv: 3  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 13: arr: 2 serv: 4  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 11: arr: 2 serv: 1  Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 32
+Waiting: []
+Queue 0: Client 12: arr: 2 serv: 2  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 13: arr: 2 serv: 3  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 14: arr: 2 serv: 8  Client 18: arr: 2 serv: 7  
+
+Time 33
+Waiting: []
+Queue 0: Client 12: arr: 2 serv: 1  Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 13: arr: 2 serv: 2  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 14: arr: 2 serv: 7  Client 18: arr: 2 serv: 7  
+
+Time 34
+Waiting: []
+Queue 0: Client 15: arr: 2 serv: 6  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 13: arr: 2 serv: 1  Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 14: arr: 2 serv: 6  Client 18: arr: 2 serv: 7  
+
+Time 35
+Waiting: []
+Queue 0: Client 15: arr: 2 serv: 5  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 16: arr: 2 serv: 7  Client 19: arr: 2 serv: 5  
+Queue 2: Client 14: arr: 2 serv: 5  Client 18: arr: 2 serv: 7  
+
+Time 36
+Waiting: []
+Queue 0: Client 15: arr: 2 serv: 4  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 16: arr: 2 serv: 6  Client 19: arr: 2 serv: 5  
+Queue 2: Client 14: arr: 2 serv: 4  Client 18: arr: 2 serv: 7  
+
+Time 37
+Waiting: []
+Queue 0: Client 15: arr: 2 serv: 3  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 16: arr: 2 serv: 5  Client 19: arr: 2 serv: 5  
+Queue 2: Client 14: arr: 2 serv: 3  Client 18: arr: 2 serv: 7  
+
+Time 38
+Waiting: []
+Queue 0: Client 15: arr: 2 serv: 2  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 16: arr: 2 serv: 4  Client 19: arr: 2 serv: 5  
+Queue 2: Client 14: arr: 2 serv: 2  Client 18: arr: 2 serv: 7  
+
+Time 39
+Waiting: []
+Queue 0: Client 15: arr: 2 serv: 1  Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 16: arr: 2 serv: 3  Client 19: arr: 2 serv: 5  
+Queue 2: Client 14: arr: 2 serv: 1  Client 18: arr: 2 serv: 7  
+
+Time 40
+Waiting: []
+Queue 0: Client 17: arr: 2 serv: 7  Client 20: arr: 2 serv: 7  
+Queue 1: Client 16: arr: 2 serv: 2  Client 19: arr: 2 serv: 5  
+Queue 2: Client 18: arr: 2 serv: 7  
+
+Time 42
+Waiting: []
+Queue 0: Client 17: arr: 2 serv: 5  Client 20: arr: 2 serv: 7  
+Queue 1: Client 19: arr: 2 serv: 5  
+Queue 2: Client 18: arr: 2 serv: 5  
+
+Time 43
+Waiting: []
+Queue 0: Client 17: arr: 2 serv: 4  Client 20: arr: 2 serv: 7  
+Queue 1: Client 19: arr: 2 serv: 4  
+Queue 2: Client 18: arr: 2 serv: 4  
+
+Time 44
+Waiting: []
+Queue 0: Client 17: arr: 2 serv: 3  Client 20: arr: 2 serv: 7  
+Queue 1: Client 19: arr: 2 serv: 3  
+Queue 2: Client 18: arr: 2 serv: 3  
+
+Time 45
+Waiting: []
+Queue 0: Client 17: arr: 2 serv: 2  Client 20: arr: 2 serv: 7  
+Queue 1: Client 19: arr: 2 serv: 2  
+Queue 2: Client 18: arr: 2 serv: 2  
+
+Time 46
+Waiting: []
+Queue 0: Client 17: arr: 2 serv: 1  Client 20: arr: 2 serv: 7  
+Queue 1: Client 19: arr: 2 serv: 1  
+Queue 2: Client 18: arr: 2 serv: 1  
+
+Time 47
+Waiting: []
+Queue 0: Client 20: arr: 2 serv: 7  
+Queue 1: 
+Queue 2: 
+
+Time 48
+Waiting: []
+Queue 0: Client 20: arr: 2 serv: 6  
+Queue 1: 
+Queue 2: 
+
+Time 49
+Waiting: []
+Queue 0: Client 20: arr: 2 serv: 5  
+Queue 1: 
+Queue 2: 
+
+Time 50
+Waiting: []
+Queue 0: Client 20: arr: 2 serv: 4  
+Queue 1: 
+Queue 2: 
+
+Time 51
+Waiting: []
+Queue 0: Client 20: arr: 2 serv: 3  
+Queue 1: 
+Queue 2: 
+
+Time 52
+Waiting: []
+Queue 0: Client 20: arr: 2 serv: 2  
+Queue 1: 
+Queue 2: 
+
+Time 53
+Waiting: []
+Queue 0: Client 20: arr: 2 serv: 1  
+Queue 1: 
+Queue 2: 
+
+Time 54
+Waiting: []
+Queue 0: 
+Queue 1: 
+Queue 2: 
+
+Done !!
+Peek start: 2 Peek end: 7
+Avg service: 27.95  Avg waiting: 28.4

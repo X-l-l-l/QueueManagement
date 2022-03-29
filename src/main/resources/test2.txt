@@ -1,0 +1,356 @@
+
+Time 1
+Waiting: [Client 16: arr: 3 serv: 2  , Client 49: arr: 3 serv: 5  , Client 2: arr: 7 serv: 4  , Client 26: arr: 7 serv: 6  , Client 32: arr: 7 serv: 6  , Client 4: arr: 9 serv: 2  , Client 9: arr: 9 serv: 5  , Client 36: arr: 9 serv: 2  , Client 42: arr: 9 serv: 3  , Client 44: arr: 9 serv: 4  , Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time 2
+Waiting: [Client 16: arr: 3 serv: 2  , Client 49: arr: 3 serv: 5  , Client 2: arr: 7 serv: 4  , Client 26: arr: 7 serv: 6  , Client 32: arr: 7 serv: 6  , Client 4: arr: 9 serv: 2  , Client 9: arr: 9 serv: 5  , Client 36: arr: 9 serv: 2  , Client 42: arr: 9 serv: 3  , Client 44: arr: 9 serv: 4  , Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time 3
+Waiting: [Client 2: arr: 7 serv: 4  , Client 26: arr: 7 serv: 6  , Client 32: arr: 7 serv: 6  , Client 4: arr: 9 serv: 2  , Client 9: arr: 9 serv: 5  , Client 36: arr: 9 serv: 2  , Client 42: arr: 9 serv: 3  , Client 44: arr: 9 serv: 4  , Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 16: arr: 3 serv: 2  
+Queue 1: Client 49: arr: 3 serv: 5  
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time 4
+Waiting: [Client 2: arr: 7 serv: 4  , Client 26: arr: 7 serv: 6  , Client 32: arr: 7 serv: 6  , Client 4: arr: 9 serv: 2  , Client 9: arr: 9 serv: 5  , Client 36: arr: 9 serv: 2  , Client 42: arr: 9 serv: 3  , Client 44: arr: 9 serv: 4  , Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 16: arr: 3 serv: 1  
+Queue 1: Client 49: arr: 3 serv: 4  
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time 5
+Waiting: [Client 2: arr: 7 serv: 4  , Client 26: arr: 7 serv: 6  , Client 32: arr: 7 serv: 6  , Client 4: arr: 9 serv: 2  , Client 9: arr: 9 serv: 5  , Client 36: arr: 9 serv: 2  , Client 42: arr: 9 serv: 3  , Client 44: arr: 9 serv: 4  , Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: 
+Queue 1: Client 49: arr: 3 serv: 3  
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time 6
+Waiting: [Client 2: arr: 7 serv: 4  , Client 26: arr: 7 serv: 6  , Client 32: arr: 7 serv: 6  , Client 4: arr: 9 serv: 2  , Client 9: arr: 9 serv: 5  , Client 36: arr: 9 serv: 2  , Client 42: arr: 9 serv: 3  , Client 44: arr: 9 serv: 4  , Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: 
+Queue 1: Client 49: arr: 3 serv: 2  
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time 7
+Waiting: [Client 4: arr: 9 serv: 2  , Client 9: arr: 9 serv: 5  , Client 36: arr: 9 serv: 2  , Client 42: arr: 9 serv: 3  , Client 44: arr: 9 serv: 4  , Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 2: arr: 7 serv: 4  
+Queue 1: Client 49: arr: 3 serv: 1  
+Queue 2: Client 26: arr: 7 serv: 6  
+Queue 3: Client 32: arr: 7 serv: 6  
+Queue 4: 
+
+Time 8
+Waiting: [Client 4: arr: 9 serv: 2  , Client 9: arr: 9 serv: 5  , Client 36: arr: 9 serv: 2  , Client 42: arr: 9 serv: 3  , Client 44: arr: 9 serv: 4  , Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 2: arr: 7 serv: 3  
+Queue 1: 
+Queue 2: Client 26: arr: 7 serv: 5  
+Queue 3: Client 32: arr: 7 serv: 5  
+Queue 4: 
+
+Time 9
+Waiting: [Client 19: arr: 10 serv: 6  , Client 28: arr: 10 serv: 4  , Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 2: arr: 7 serv: 2  Client 36: arr: 9 serv: 2  Client 44: arr: 9 serv: 4  
+Queue 1: Client 4: arr: 9 serv: 2  Client 42: arr: 9 serv: 3  
+Queue 2: Client 26: arr: 7 serv: 4  
+Queue 3: Client 32: arr: 7 serv: 4  
+Queue 4: Client 9: arr: 9 serv: 5  
+
+Time 10
+Waiting: [Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 2: arr: 7 serv: 1  Client 36: arr: 9 serv: 2  Client 44: arr: 9 serv: 4  
+Queue 1: Client 4: arr: 9 serv: 1  Client 42: arr: 9 serv: 3  
+Queue 2: Client 26: arr: 7 serv: 3  Client 19: arr: 10 serv: 6  
+Queue 3: Client 32: arr: 7 serv: 3  Client 28: arr: 10 serv: 4  
+Queue 4: Client 9: arr: 9 serv: 4  
+
+Time 11
+Waiting: [Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 36: arr: 9 serv: 2  Client 44: arr: 9 serv: 4  
+Queue 1: Client 42: arr: 9 serv: 3  
+Queue 2: Client 26: arr: 7 serv: 2  Client 19: arr: 10 serv: 6  
+Queue 3: Client 32: arr: 7 serv: 2  Client 28: arr: 10 serv: 4  
+Queue 4: Client 9: arr: 9 serv: 3  
+
+Time 12
+Waiting: [Client 45: arr: 13 serv: 4  , Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 36: arr: 9 serv: 1  Client 44: arr: 9 serv: 4  
+Queue 1: Client 42: arr: 9 serv: 2  
+Queue 2: Client 26: arr: 7 serv: 1  Client 19: arr: 10 serv: 6  
+Queue 3: Client 32: arr: 7 serv: 1  Client 28: arr: 10 serv: 4  
+Queue 4: Client 9: arr: 9 serv: 2  
+
+Time 13
+Waiting: [Client 17: arr: 14 serv: 4  , Client 33: arr: 14 serv: 2  , Client 35: arr: 14 serv: 6  , Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 44: arr: 9 serv: 4  
+Queue 1: Client 42: arr: 9 serv: 1  Client 45: arr: 13 serv: 4  
+Queue 2: Client 19: arr: 10 serv: 6  
+Queue 3: Client 28: arr: 10 serv: 4  
+Queue 4: Client 9: arr: 9 serv: 1  
+
+Time 14
+Waiting: [Client 15: arr: 15 serv: 1  , Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 44: arr: 9 serv: 3  Client 33: arr: 14 serv: 2  
+Queue 1: Client 45: arr: 13 serv: 4  
+Queue 2: Client 19: arr: 10 serv: 5  
+Queue 3: Client 28: arr: 10 serv: 3  Client 35: arr: 14 serv: 6  
+Queue 4: Client 17: arr: 14 serv: 4  
+
+Time 15
+Waiting: [Client 25: arr: 16 serv: 4  , Client 30: arr: 16 serv: 5  , Client 31: arr: 16 serv: 3  , Client 39: arr: 16 serv: 2  , Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 44: arr: 9 serv: 2  Client 33: arr: 14 serv: 2  
+Queue 1: Client 45: arr: 13 serv: 3  Client 15: arr: 15 serv: 1  
+Queue 2: Client 19: arr: 10 serv: 4  
+Queue 3: Client 28: arr: 10 serv: 2  Client 35: arr: 14 serv: 6  
+Queue 4: Client 17: arr: 14 serv: 3  
+
+Time 16
+Waiting: [Client 40: arr: 17 serv: 2  , Client 43: arr: 17 serv: 1  , Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 44: arr: 9 serv: 1  Client 33: arr: 14 serv: 2  Client 30: arr: 16 serv: 5  
+Queue 1: Client 45: arr: 13 serv: 2  Client 15: arr: 15 serv: 1  Client 31: arr: 16 serv: 3  
+Queue 2: Client 19: arr: 10 serv: 3  Client 39: arr: 16 serv: 2  
+Queue 3: Client 28: arr: 10 serv: 1  Client 35: arr: 14 serv: 6  
+Queue 4: Client 17: arr: 14 serv: 2  Client 25: arr: 16 serv: 4  
+
+Time 17
+Waiting: [Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 33: arr: 14 serv: 2  Client 30: arr: 16 serv: 5  
+Queue 1: Client 45: arr: 13 serv: 1  Client 15: arr: 15 serv: 1  Client 31: arr: 16 serv: 3  Client 43: arr: 17 serv: 1  
+Queue 2: Client 19: arr: 10 serv: 2  Client 39: arr: 16 serv: 2  Client 40: arr: 17 serv: 2  
+Queue 3: Client 35: arr: 14 serv: 6  
+Queue 4: Client 17: arr: 14 serv: 1  Client 25: arr: 16 serv: 4  
+
+Time 18
+Waiting: [Client 21: arr: 19 serv: 3  , Client 47: arr: 19 serv: 4  , Client 50: arr: 19 serv: 4  , Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 33: arr: 14 serv: 1  Client 30: arr: 16 serv: 5  
+Queue 1: Client 15: arr: 15 serv: 1  Client 31: arr: 16 serv: 3  Client 43: arr: 17 serv: 1  
+Queue 2: Client 19: arr: 10 serv: 1  Client 39: arr: 16 serv: 2  Client 40: arr: 17 serv: 2  
+Queue 3: Client 35: arr: 14 serv: 5  
+Queue 4: Client 25: arr: 16 serv: 4  
+
+Time 19
+Waiting: [Client 20: arr: 20 serv: 4  , Client 34: arr: 20 serv: 2  , Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 30: arr: 16 serv: 5  
+Queue 1: Client 31: arr: 16 serv: 3  Client 43: arr: 17 serv: 1  Client 47: arr: 19 serv: 4  
+Queue 2: Client 39: arr: 16 serv: 2  Client 40: arr: 17 serv: 2  Client 50: arr: 19 serv: 4  
+Queue 3: Client 35: arr: 14 serv: 4  
+Queue 4: Client 25: arr: 16 serv: 3  Client 21: arr: 19 serv: 3  
+
+Time 20
+Waiting: [Client 7: arr: 21 serv: 1  , Client 8: arr: 21 serv: 3  , Client 11: arr: 21 serv: 6  , Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 30: arr: 16 serv: 4  Client 34: arr: 20 serv: 2  
+Queue 1: Client 31: arr: 16 serv: 2  Client 43: arr: 17 serv: 1  Client 47: arr: 19 serv: 4  
+Queue 2: Client 39: arr: 16 serv: 1  Client 40: arr: 17 serv: 2  Client 50: arr: 19 serv: 4  
+Queue 3: Client 35: arr: 14 serv: 3  Client 20: arr: 20 serv: 4  
+Queue 4: Client 25: arr: 16 serv: 2  Client 21: arr: 19 serv: 3  
+
+Time 21
+Waiting: [Client 37: arr: 22 serv: 6  , Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 30: arr: 16 serv: 3  Client 34: arr: 20 serv: 2  Client 8: arr: 21 serv: 3  
+Queue 1: Client 31: arr: 16 serv: 1  Client 43: arr: 17 serv: 1  Client 47: arr: 19 serv: 4  
+Queue 2: Client 40: arr: 17 serv: 2  Client 50: arr: 19 serv: 4  
+Queue 3: Client 35: arr: 14 serv: 2  Client 20: arr: 20 serv: 4  
+Queue 4: Client 25: arr: 16 serv: 1  Client 21: arr: 19 serv: 3  Client 7: arr: 21 serv: 1  Client 11: arr: 21 serv: 6  
+
+Time 22
+Waiting: [Client 1: arr: 23 serv: 1  , Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 30: arr: 16 serv: 2  Client 34: arr: 20 serv: 2  Client 8: arr: 21 serv: 3  
+Queue 1: Client 43: arr: 17 serv: 1  Client 47: arr: 19 serv: 4  Client 37: arr: 22 serv: 6  
+Queue 2: Client 40: arr: 17 serv: 1  Client 50: arr: 19 serv: 4  
+Queue 3: Client 35: arr: 14 serv: 1  Client 20: arr: 20 serv: 4  
+Queue 4: Client 21: arr: 19 serv: 3  Client 7: arr: 21 serv: 1  Client 11: arr: 21 serv: 6  
+
+Time 23
+Waiting: [Client 29: arr: 24 serv: 6  , Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 30: arr: 16 serv: 1  Client 34: arr: 20 serv: 2  Client 8: arr: 21 serv: 3  
+Queue 1: Client 47: arr: 19 serv: 4  Client 37: arr: 22 serv: 6  
+Queue 2: Client 50: arr: 19 serv: 4  Client 1: arr: 23 serv: 1  
+Queue 3: Client 20: arr: 20 serv: 4  
+Queue 4: Client 21: arr: 19 serv: 2  Client 7: arr: 21 serv: 1  Client 11: arr: 21 serv: 6  
+
+Time 24
+Waiting: [Client 48: arr: 25 serv: 4  , Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 34: arr: 20 serv: 2  Client 8: arr: 21 serv: 3  
+Queue 1: Client 47: arr: 19 serv: 3  Client 37: arr: 22 serv: 6  
+Queue 2: Client 50: arr: 19 serv: 3  Client 1: arr: 23 serv: 1  
+Queue 3: Client 20: arr: 20 serv: 3  Client 29: arr: 24 serv: 6  
+Queue 4: Client 21: arr: 19 serv: 1  Client 7: arr: 21 serv: 1  Client 11: arr: 21 serv: 6  
+
+Time 25
+Waiting: [Client 12: arr: 26 serv: 2  , Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 34: arr: 20 serv: 1  Client 8: arr: 21 serv: 3  
+Queue 1: Client 47: arr: 19 serv: 2  Client 37: arr: 22 serv: 6  
+Queue 2: Client 50: arr: 19 serv: 2  Client 1: arr: 23 serv: 1  Client 48: arr: 25 serv: 4  
+Queue 3: Client 20: arr: 20 serv: 2  Client 29: arr: 24 serv: 6  
+Queue 4: Client 7: arr: 21 serv: 1  Client 11: arr: 21 serv: 6  
+
+Time 26
+Waiting: [Client 10: arr: 27 serv: 2  , Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 8: arr: 21 serv: 3  Client 12: arr: 26 serv: 2  
+Queue 1: Client 47: arr: 19 serv: 1  Client 37: arr: 22 serv: 6  
+Queue 2: Client 50: arr: 19 serv: 1  Client 1: arr: 23 serv: 1  Client 48: arr: 25 serv: 4  
+Queue 3: Client 20: arr: 20 serv: 1  Client 29: arr: 24 serv: 6  
+Queue 4: Client 11: arr: 21 serv: 6  
+
+Time 27
+Waiting: [Client 13: arr: 28 serv: 4  , Client 38: arr: 28 serv: 4  , Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 8: arr: 21 serv: 2  Client 12: arr: 26 serv: 2  Client 10: arr: 27 serv: 2  
+Queue 1: Client 37: arr: 22 serv: 6  
+Queue 2: Client 1: arr: 23 serv: 1  Client 48: arr: 25 serv: 4  
+Queue 3: Client 29: arr: 24 serv: 6  
+Queue 4: Client 11: arr: 21 serv: 5  
+
+Time 28
+Waiting: [Client 23: arr: 29 serv: 2  , Client 24: arr: 29 serv: 4  , Client 46: arr: 29 serv: 3  , Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 8: arr: 21 serv: 1  Client 12: arr: 26 serv: 2  Client 10: arr: 27 serv: 2  
+Queue 1: Client 37: arr: 22 serv: 5  
+Queue 2: Client 48: arr: 25 serv: 4  Client 13: arr: 28 serv: 4  
+Queue 3: Client 29: arr: 24 serv: 5  
+Queue 4: Client 11: arr: 21 serv: 4  Client 38: arr: 28 serv: 4  
+
+Time 29
+Waiting: [Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 12: arr: 26 serv: 2  Client 10: arr: 27 serv: 2  Client 23: arr: 29 serv: 2  
+Queue 1: Client 37: arr: 22 serv: 4  Client 24: arr: 29 serv: 4  
+Queue 2: Client 48: arr: 25 serv: 3  Client 13: arr: 28 serv: 4  
+Queue 3: Client 29: arr: 24 serv: 4  Client 46: arr: 29 serv: 3  
+Queue 4: Client 11: arr: 21 serv: 3  Client 38: arr: 28 serv: 4  
+
+Time 30
+Waiting: [Client 3: arr: 31 serv: 1  , Client 6: arr: 31 serv: 6  , Client 18: arr: 31 serv: 2  , Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 12: arr: 26 serv: 1  Client 10: arr: 27 serv: 2  Client 23: arr: 29 serv: 2  
+Queue 1: Client 37: arr: 22 serv: 3  Client 24: arr: 29 serv: 4  
+Queue 2: Client 48: arr: 25 serv: 2  Client 13: arr: 28 serv: 4  
+Queue 3: Client 29: arr: 24 serv: 3  Client 46: arr: 29 serv: 3  
+Queue 4: Client 11: arr: 21 serv: 2  Client 38: arr: 28 serv: 4  
+
+Time 31
+Waiting: [Client 27: arr: 32 serv: 4  , Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 10: arr: 27 serv: 2  Client 23: arr: 29 serv: 2  Client 3: arr: 31 serv: 1  Client 6: arr: 31 serv: 6  
+Queue 1: Client 37: arr: 22 serv: 2  Client 24: arr: 29 serv: 4  
+Queue 2: Client 48: arr: 25 serv: 1  Client 13: arr: 28 serv: 4  Client 18: arr: 31 serv: 2  
+Queue 3: Client 29: arr: 24 serv: 2  Client 46: arr: 29 serv: 3  
+Queue 4: Client 11: arr: 21 serv: 1  Client 38: arr: 28 serv: 4  
+
+Time 32
+Waiting: [Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 10: arr: 27 serv: 1  Client 23: arr: 29 serv: 2  Client 3: arr: 31 serv: 1  Client 6: arr: 31 serv: 6  
+Queue 1: Client 37: arr: 22 serv: 1  Client 24: arr: 29 serv: 4  
+Queue 2: Client 13: arr: 28 serv: 4  Client 18: arr: 31 serv: 2  
+Queue 3: Client 29: arr: 24 serv: 1  Client 46: arr: 29 serv: 3  Client 27: arr: 32 serv: 4  
+Queue 4: Client 38: arr: 28 serv: 4  
+
+Time 33
+Waiting: [Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 23: arr: 29 serv: 2  Client 3: arr: 31 serv: 1  Client 6: arr: 31 serv: 6  
+Queue 1: Client 24: arr: 29 serv: 4  
+Queue 2: Client 13: arr: 28 serv: 3  Client 18: arr: 31 serv: 2  
+Queue 3: Client 46: arr: 29 serv: 3  Client 27: arr: 32 serv: 4  
+Queue 4: Client 38: arr: 28 serv: 3  
+
+Time 34
+Waiting: [Client 14: arr: 35 serv: 6  , Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 23: arr: 29 serv: 1  Client 3: arr: 31 serv: 1  Client 6: arr: 31 serv: 6  
+Queue 1: Client 24: arr: 29 serv: 3  
+Queue 2: Client 13: arr: 28 serv: 2  Client 18: arr: 31 serv: 2  
+Queue 3: Client 46: arr: 29 serv: 2  Client 27: arr: 32 serv: 4  
+Queue 4: Client 38: arr: 28 serv: 2  
+
+Time 35
+Waiting: [Client 5: arr: 36 serv: 5  , Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 3: arr: 31 serv: 1  Client 6: arr: 31 serv: 6  
+Queue 1: Client 24: arr: 29 serv: 2  
+Queue 2: Client 13: arr: 28 serv: 1  Client 18: arr: 31 serv: 2  
+Queue 3: Client 46: arr: 29 serv: 1  Client 27: arr: 32 serv: 4  
+Queue 4: Client 38: arr: 28 serv: 1  Client 14: arr: 35 serv: 6  
+
+Time 36
+Waiting: [Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 6: arr: 31 serv: 6  
+Queue 1: Client 24: arr: 29 serv: 1  Client 5: arr: 36 serv: 5  
+Queue 2: Client 18: arr: 31 serv: 2  
+Queue 3: Client 27: arr: 32 serv: 4  
+Queue 4: Client 14: arr: 35 serv: 6  
+
+Time 37
+Waiting: [Client 22: arr: 38 serv: 6  , Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 6: arr: 31 serv: 5  
+Queue 1: Client 5: arr: 36 serv: 5  
+Queue 2: Client 18: arr: 31 serv: 1  
+Queue 3: Client 27: arr: 32 serv: 3  
+Queue 4: Client 14: arr: 35 serv: 5  
+
+Time 38
+Waiting: [Client 41: arr: 39 serv: 2  ]
+Queue 0: Client 6: arr: 31 serv: 4  
+Queue 1: Client 5: arr: 36 serv: 4  
+Queue 2: Client 22: arr: 38 serv: 6  
+Queue 3: Client 27: arr: 32 serv: 2  
+Queue 4: Client 14: arr: 35 serv: 4  
+
+Time 39
+Waiting: []
+Queue 0: Client 6: arr: 31 serv: 3  
+Queue 1: Client 5: arr: 36 serv: 3  
+Queue 2: Client 22: arr: 38 serv: 5  
+Queue 3: Client 27: arr: 32 serv: 1  Client 41: arr: 39 serv: 2  
+Queue 4: Client 14: arr: 35 serv: 3  
+
+Time 40
+Waiting: []
+Queue 0: Client 6: arr: 31 serv: 2  
+Queue 1: Client 5: arr: 36 serv: 2  
+Queue 2: Client 22: arr: 38 serv: 4  
+Queue 3: Client 41: arr: 39 serv: 2  
+Queue 4: Client 14: arr: 35 serv: 2  
+
+Time 41
+Waiting: []
+Queue 0: Client 6: arr: 31 serv: 1  
+Queue 1: Client 5: arr: 36 serv: 1  
+Queue 2: Client 22: arr: 38 serv: 3  
+Queue 3: Client 41: arr: 39 serv: 1  
+Queue 4: Client 14: arr: 35 serv: 1  
+
+Time 42
+Waiting: []
+Queue 0: 
+Queue 1: 
+Queue 2: Client 22: arr: 38 serv: 2  
+Queue 3: 
+Queue 4: 
+
+Time 43
+Waiting: []
+Queue 0: 
+Queue 1: 
+Queue 2: Client 22: arr: 38 serv: 1  
+Queue 3: 
+Queue 4: 
+
+Time 44
+Waiting: []
+Queue 0: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Done !!
+Peek start: 21 Peek end: 21
+Avg time: 6.38
